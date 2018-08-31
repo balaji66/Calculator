@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Calculator</string>
+
+    <string name="text1a">First TextView</string>
+    <string name="text1b">Alternate Text</string>
+    <string name="button1">Update Button</string>
+
+    <string name="text2a">Second TextView</string>
+    <string name="text2b">Changed Text</string>
+    <string name="button2">Second Button</string>
+
+    <string name="next_activity">Next Activity</string>
+
+    <string name="firstname">Firstname</string>
+    <string name="lastname">Lastname</string>
+    <string name="age">Age</string>
+    <string name="gender">Gender</string>
+    <string name="update_firstname">Update firstname</string>
+    <string name="update_lastname">Update lastname</string>
+    <string name="update">Update</string>
+    <string name="clicked_count">Clicked 0 times</string>
+    <string name="empty_space" />
+    <string name="back">back</string>
+    <string name="first_textview">This is the first TextView</string>
+    <string name="second_textview">This is the second TextView</string>
+    <string name="third_textview">This is the third TextView</string>
+
+</resources>
