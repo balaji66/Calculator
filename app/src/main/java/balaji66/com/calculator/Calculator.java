@@ -1,4 +1,4 @@
-package squareandcube.com.calculator;
+package balaji66.com.calculator;
 
 import android.app.Activity;
 import android.databinding.DataBindingUtil;
@@ -10,7 +10,7 @@ import android.widget.Toast;
 
 import java.text.DecimalFormat;
 //import squareandcube.com.calculator.databinding.CalBinding;
-import squareandcube.com.calculator.databinding.ActivityCalculatorBinding;
+import balaji66.com.calculator.databinding.ActivityCalculatorBinding;
 public class Calculator extends AppCompatActivity {
 
     private ActivityCalculatorBinding binding;

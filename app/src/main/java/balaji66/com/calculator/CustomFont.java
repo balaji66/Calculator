@@ -1,4 +1,4 @@
-package squareandcube.com.calculator;
+package balaji66.com.calculator;
 
 import android.graphics.Typeface;
 import android.support.v7.app.AppCompatActivity;

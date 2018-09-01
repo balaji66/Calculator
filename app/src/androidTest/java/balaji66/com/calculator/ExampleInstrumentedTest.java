@@ -1,4 +1,4 @@
-package squareandcube.com.calculator;
+package balaji66.com.calculator;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

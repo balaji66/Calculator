@@ -1,4 +1,4 @@
-package squareandcube.com.calculator;
+package balaji66.com.calculator;
 
 import android.databinding.BaseObservable;
 import android.databinding.Observable;
